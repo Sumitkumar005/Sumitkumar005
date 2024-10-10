@@ -1,6 +1,6 @@
 # Hi there, I'm Sumitkumar005! 👋
 
-## 🎯 Passionate Developer | Machine Learning Enthusiast | Open Source Contributor
+## 🎯 Passionate Developer | Machine Learning Enthusiast |
 
 ---
 
