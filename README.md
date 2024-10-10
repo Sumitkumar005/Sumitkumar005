@@ -1,6 +1,6 @@
 # Hi there, I'm Sumitkumar005 👋
 
-## About Me
+##  🖥️ Tech Stack:
 I’m a passionate developer with an interest in creating modern web applications. I enjoy working with a variety of technologies to build scalable and efficient solutions.
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
