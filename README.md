@@ -14,7 +14,7 @@
 
 ### Codeforce
 
-- [![Codeforces](https://img.shields.io/badge/Codeforces-%23ED8B00?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/SumitKSaini)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%23ED8B00?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/SumitKSaini)
 
 ## 🖥️ Tech Stack:
 
