@@ -12,7 +12,7 @@
 
 ---
 
-### Codeforce
+##** Codeforce**
 
 [![Codeforces Handle](https://img.shields.io/badge/Codeforces-SumitKSaini-orange?style=flat-square&logo=codeforces)](https://codeforces.com/profile/SumitKSaini)
 [![Rating](https://img.shields.io/badge/Rating-1500-blue?style=flat-square)](https://codeforces.com/profile/SumitKSaini)
