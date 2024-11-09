@@ -14,7 +14,8 @@
 
 ### Codeforce
 
- 👨‍💻 [My Codeforces Profile](https://codeforces.com/profile/SumitKSaini)
+[![Codeforces Profile](https://cf-stalker.com/stats/SumitKSaini)](https://codeforces.com/profile/SumitKSaini)
+
 
 ## 🖥️ Tech Stack:
 
