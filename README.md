@@ -16,10 +16,10 @@
 
 ### Codeforces Profile
 
-[![🙋‍♂️](https://img.shields.io/badge/-SumitKSaini-orange?style=flat&logo=codeforces)](https://codeforces.com/profile/SumitKSaini)
-[![⭐](https://img.shields.io/badge/Rating-1500-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/SumitKSaini)
-[![📈](https://img.shields.io/badge/Rank-Specialist-green?style=flat&logo=codeforces)](https://codeforces.com/profile/SumitKSaini)
-[![🔢](https://img.shields.io/badge/Solved-182-yellow?style=flat&logo=codeforces)](https://codeforces.com/profile/SumitKSaini)
+[![🙋‍♂️](https://img.shields.io/badge/-SumitKSaini-orange?style=flat&logo=codeforces)]()
+[![⭐](https://img.shields.io/badge/Rating-1500-blue?style=flat&logo=codeforces)]()
+[![📈](https://img.shields.io/badge/Rank-Specialist-green?style=flat&logo=codeforces)](
+[![🔢](https://img.shields.io/badge/Solved-182-yellow?style=flat&logo=codeforces)]()
 
 
 
