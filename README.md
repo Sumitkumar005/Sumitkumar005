@@ -85,6 +85,18 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumitkumar005&theme=react-dark">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitkumar005&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sumitkumar005&theme=darkhub&row=1&column=4" alt="GitHub Trophies">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sumitkumar005&style=flat-square" alt="Profile Views">
+</p>
+
 ---
 
 ## 📫 Connect with Me:
