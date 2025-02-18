@@ -78,6 +78,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitkumar005&theme=dark&hide_border=true">
 </p>
 
+<p align="center">
+  <img src="(https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=darkhub&row=1&column=4">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=react-dark">
+</p>
+
 ---
 
 ## 📫 Connect with Me:
