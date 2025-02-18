@@ -1,53 +1,25 @@
 # Hi there, I'm Sumitkumar005! 👋
 
-## 🎯 Passionate Developer | Machine Learning Enthusiast | Data Engineer
+## 🎯 Passionate Developer | Machine Learning Enthusiast | Futurist
 
 ---
 
 ### 🚀 About Me:
-- I’m a visionary **Software Developer & Data Engineer** mastering Machine Learning, Full Stack Web Development, and next-gen AI (LLMs, RAG, and more) to build scalable solutions.
-- With a strong foundation from **Indian Institute of Technology** in Data Science and Applications, I blend creative problem-solving with cutting-edge technology to drive data-driven decision-making.
-- Always eager to collaborate on open-source projects and push boundaries in a futuristic landscape—imagine innovation crafted for the era of **2925**!
+- I’m a forward-thinking innovator mastering **Machine Learning** and **Full Stack Web Development** to solve challenges that even the year **2925** would applaud.
+- Constantly exploring the newest frontiers in **AI**, **Web Development**, and **Cloud Technologies**.
+- I thrive on collaborating with brilliant minds on open-source projects and groundbreaking ideas.
+- Committed to crafting scalable, elegant software solutions that redefine tomorrow’s technology.
 
 ---
 
-## 📄 Resume Highlights
+## Codeforce
 
-### 🎓 Education:
-- **Indian Institute of Technology**  
-  *BS in Data Science and Applications* (CGPA: 8.1/10.0)
-- **Hindu Inter College**  
-  *Class 12th*
+### Codeforces Profile
 
-### 💼 Professional Experience:
-- **Software Development Intern @ Exposys Data Labs**  
-  *Chennai/Bengaluru, Remote*  
-  - Engineered secure, JWT-based authentication systems and built robust RESTful APIs using **FastAPI** and **PostgreSQL**.
-  - Developed interactive interfaces (with NiceGUI) to bridge the gap between users and backend systems.
-  - Contributed to enhancing system reliability and performance in a dynamic team environment.
-
-- **Machine Learning Intern @ Unified Mentor Pvt. Ltd.**  
-  *Gurugram, Remote*  
-  - Cleaned and curated datasets for industrial and healthcare applications.
-  - Developed and optimized ML models achieving up to **97% accuracy** in stock forecasting and **84% accuracy** in diabetes prediction.
-  - Applied advanced feature engineering and preprocessing techniques to boost model robustness.
-
-### 🚀 Key Projects:
-- **Smart Finance with Machine Learning**  
-  - Implemented deep learning models (LSTM) for stock prediction with **97% accuracy** and applied K-Means for financial clustering (**93% accuracy**).
-  - Research featured in the IIT Madras Newsletter for innovative ML applications.
-
-- **RAG System for MES in Chemical Industry**  
-  - Designed a Retrieval-Augmented Generation (RAG) system using Python, OpenAI API, FAISS, and Whisper.
-  - Developed a multimodal QA interface with Streamlit, enabling context-aware queries for smart factory operations.
-
-- **AI-Powered Multimodal Personal Healthcare Assistant**  
-  - Built a full-stack solution with Django and React integrating ML models for symptom checking and disease prediction.
-  - Achieved high prediction accuracies while enabling real-time health monitoring for personalized care.
-
-- **Fault Detection & Remote Monitoring System**  
-  - Developed a comprehensive system using Python, Flask, OpenCV, and TensorFlow to detect casting defects (93% accuracy).
-  - Integrated live webcam streaming with an intuitive dashboard for real-time alerts and data visualization.
+[![🙋‍♂️](https://img.shields.io/badge/--orange?style=flat&logo=codeforces)]()  
+[![⭐](https://img.shields.io/badge/Rating-1500-blue?style=flat&logo=codeforces)]()  
+[![📈](https://img.shields.io/badge/Rank-Specialist-green?style=flat&logo=codeforces)]()  
+[![🔢](https://img.shields.io/badge/Solved-182-yellow?style=flat&logo=codeforces)]()
 
 ---
 
@@ -89,14 +61,14 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🔮 Generative AI & IoT:
+### 🔮 Emerging Tech:
 - **Generative AI:** LLMs, RAG, Prompt Engineering, LangChain, Vector Databases (Milvus, Pinecone)
 - **IoT Protocols:** MQTT, Modbus, OPC UA
 
 ---
 
 ## 🔥 Ongoing Projects:
-- 🛠️ Projects are currently under development, stay tuned!
+- 🛠️ Projects are under development. Brace yourself for innovations that transcend today's technology!
 
 ---
 
