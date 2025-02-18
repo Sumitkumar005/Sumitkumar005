@@ -6,7 +6,7 @@
 
 ### 🚀 About Me:
 - I’m a dedicated innovator mastering **Machine Learning** and **Full Stack Web Development** to craft scalable, elegant solutions.
-- I constantly explore the latest in **AI**, **Web Development**, and **Cloud Technologies**—pushing the boundaries of modern technology.
+- I constantly explore the latest in **AI**, and **Cloud Technologies**—pushing the boundaries of modern technology.
 - I thrive on collaborating on open-source projects and pioneering ideas that reshape our digital landscape.
 
 ---
