@@ -79,11 +79,11 @@
 </p>
 
 <p align="center">
-  <img src="(https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=darkhub&row=1&column=4">
+  <img src="(https://github-profile-trophy.vercel.app/?username=Sumitkumar005&theme=darkhub&row=1&column=4">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=react-dark">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumitkumar005&theme=react-dark">
 </p>
 
 ---
