@@ -1,12 +1,16 @@
 # Hi there, I'm Sumitkumar005! 👋
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sumitkumar005&style=flat-square" alt="Profile Views">
+</p>
+
 ## 🎯 Passionate Developer | Machine Learning Enthusiast | Data Engineer
 
 ---
 
 ### 🚀 About Me:
 - I’m a dedicated innovator mastering **Machine Learning** and **Full Stack Web Development** to craft scalable, elegant solutions.
-- I constantly explore the latest in **AI**, and **Cloud Technologies**—pushing the boundaries of modern technology.
+- I constantly explore the latest in **AI**, **Web Development**, and **Cloud Technologies**—pushing the boundaries of modern technology.
 - I thrive on collaborating on open-source projects and pioneering ideas that reshape our digital landscape.
 
 ---
@@ -91,10 +95,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sumitkumar005&theme=darkhub&row=1&column=4" alt="GitHub Trophies">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sumitkumar005&style=flat-square" alt="Profile Views">
 </p>
 
 ---
