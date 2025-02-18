@@ -1,6 +1,6 @@
 # Hi there, I'm Sumitkumar005! 👋
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Sumitkumar005&style=flat-square" alt="Profile Views">
 </p>
 
