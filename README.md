@@ -1,20 +1,17 @@
 # Hi there, I'm Sumitkumar005! 👋
 
-## 🎯 Passionate Developer | Machine Learning Enthusiast | Futurist
+## 🎯 Passionate Developer | Machine Learning Enthusiast | Data Engineer
 
 ---
 
 ### 🚀 About Me:
-- I’m a forward-thinking innovator mastering **Machine Learning** and **Full Stack Web Development** to solve challenges that even the year **2925** would applaud.
-- Constantly exploring the newest frontiers in **AI**, **Web Development**, and **Cloud Technologies**.
-- I thrive on collaborating with brilliant minds on open-source projects and groundbreaking ideas.
-- Committed to crafting scalable, elegant software solutions that redefine tomorrow’s technology.
+- I’m a dedicated innovator mastering **Machine Learning** and **Full Stack Web Development** to craft scalable, elegant solutions.
+- I constantly explore the latest in **AI**, **Web Development**, and **Cloud Technologies**—pushing the boundaries of modern technology.
+- I thrive on collaborating on open-source projects and pioneering ideas that reshape our digital landscape.
 
 ---
 
-## Codeforce
-
-### Codeforces Profile
+## Codeforces Profile
 
 [![🙋‍♂️](https://img.shields.io/badge/--orange?style=flat&logo=codeforces)]()  
 [![⭐](https://img.shields.io/badge/Rating-1500-blue?style=flat&logo=codeforces)]()  
@@ -46,6 +43,7 @@
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### 🛠️ DevOps & Cloud:
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -61,14 +59,15 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🔮 Emerging Tech:
+### 🔮 Emerging & Advanced Technologies:
 - **Generative AI:** LLMs, RAG, Prompt Engineering, LangChain, Vector Databases (Milvus, Pinecone)
-- **IoT Protocols:** MQTT, Modbus, OPC UA
+- **IoT & Communication:** MQTT, Modbus, OPC UA
+- **Data Engineering:** Real-time data pipelines, scalable data processing, industrial IoT integration
 
 ---
 
 ## 🔥 Ongoing Projects:
-- 🛠️ Projects are under development. Brace yourself for innovations that transcend today's technology!
+- 🛠️ Developing innovative solutions that push the boundaries of current technology. Stay tuned!
 
 ---
 
