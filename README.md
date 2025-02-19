@@ -2,18 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=Sumitkumar005&style=flat-square" alt="Profile Views">
 </p>
 
-### 🏆 Codeforces Rating
-[![Codeforces Rating](https://cf.leed.at?id=SumitKSaini)](https://codeforces.com/profile/SumitKSaini)
-
-### 📈 Codeforces Activity Graph
-![Codeforces Submission Graph](https://raw.githubusercontent.com/rohitg00/Codeforces-submission-graph/main/output/SumitKSaini)
-
-### 📈 Codeforces Heatmap
-![Codeforces Heatmap](https://cf-stats-syedomeir.vercel.app/api/heatmap?handle=SumitKSaini&theme=dark)
-
-### 🎨 Codeforces Heatmap (Custom Theme)
-![Codeforces Heatmap](https://cf-stats-syedomeir.vercel.app/api/heatmap?handle=SumitKSaini&theme=dark&color=blue&range=365)
-
 
 
 
