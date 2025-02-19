@@ -3,16 +3,6 @@
 </p>
 
 
-# 🚀 Welcome to My GitHub!
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sumitkumar005&color=green)
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumitkumar005&show_icons=true&theme=dark)
-
-### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sumitkumar005&theme=dark)
-
 # Hi there, I'm Sumit kumar! 👋
 
 ## 🎯 Passionate Developer | Machine Learning Enthusiast | Data Engineer
