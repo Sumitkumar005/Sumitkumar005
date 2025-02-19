@@ -2,9 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=Sumitkumar005&style=flat-square" alt="Profile Views">
 </p>
 
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/Sumitkumar005?theme=dark&font=Abel&ext=heatmap">
-</p>
 
 
 
@@ -88,6 +85,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sumitkumar005&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Sumitkumar005?theme=dark&font=Abel&ext=heatmap">
 </p>
 
 <p align="center">
