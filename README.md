@@ -3,6 +3,13 @@
 </p>
 
 
+### 🔥 LeetCode & Codeforces Progress
+
+#### 🏆 LeetCode Graph
+![LeetCode Graph](https://leetcard.jacoblin.cool/Sumitkumar005?theme=dark&ext=heatmap)
+
+#### 🚀 Codeforces Heatmap
+![Codeforces Heatmap](https://cf-stats-syedomeir.vercel.app/api/heatmap?handle=SumitKSaini&theme=dark&color=blue&range=365)
 
 
 
