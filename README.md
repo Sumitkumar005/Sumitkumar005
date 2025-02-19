@@ -3,13 +3,49 @@
 </p>
 
 
-### 🔥 LeetCode & Codeforces Progress
+# 🚀 Welcome to My GitHub!
 
-#### 🏆 LeetCode Graph
-![LeetCode Graph](https://leetcard.jacoblin.cool/Sumitkumar005?theme=dark&ext=heatmap)
+![Profile Views](https://komarev.com/ghpvc/?username=Sumitkumar005&color=green)
 
-#### 🚀 Codeforces Heatmap
-![Codeforces Heatmap](https://cf-stats-syedomeir.vercel.app/api/heatmap?handle=SumitKSaini&theme=dark&color=blue&range=365)
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumitkumar005&show_icons=true&theme=dark)
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sumitkumar005&theme=dark)
+
+### 📈 Contribution Graph
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sumitkumar005&theme=react)
+
+---
+
+### 🏆 Competitive Programming
+- **LeetCode**: [Profile](https://leetcode.com/Sumitkumar005)
+- **Codeforces**: [Profile](https://codeforces.com/profile/SumitKSaini)
+- **AtCoder**: [Profile](https://atcoder.jp/users/YourUsername)
+
+---
+
+### 🛠️ Tech Stack
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+---
+
+### 🏆 Featured Projects
+- 🔥 [Project Name](https://github.com/YourGitHubUsername/ProjectRepo)
+- 🚀 [Another Project](https://github.com/YourGitHubUsername/AnotherRepo)
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sumit-kumar-02a145239/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/YourUsername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+
+---
+
+![Joke](https://readme-jokes.vercel.app/api)
+
 
 
 
