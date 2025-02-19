@@ -13,46 +13,7 @@
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sumitkumar005&theme=dark)
 
-### 📈 Contribution Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sumitkumar005&theme=react)
-
----
-
-### 🏆 Competitive Programming
-- **LeetCode**: [Profile](https://leetcode.com/Sumitkumar005)
-- **Codeforces**: [Profile](https://codeforces.com/profile/SumitKSaini)
-- **AtCoder**: [Profile](https://atcoder.jp/users/YourUsername)
-
----
-
-### 🛠️ Tech Stack
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-
----
-
-### 🏆 Featured Projects
-- 🔥 [Project Name](https://github.com/YourGitHubUsername/ProjectRepo)
-- 🚀 [Another Project](https://github.com/YourGitHubUsername/AnotherRepo)
-
----
-
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sumit-kumar-02a145239/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/YourUsername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-
----
-
-![Joke](https://readme-jokes.vercel.app/api)
-
-
-
-
-
-
-
-# Hi there, I'm Sumitkumar005! 👋
+# Hi there, I'm Sumit kumar! 👋
 
 ## 🎯 Passionate Developer | Machine Learning Enthusiast | Data Engineer
 
@@ -60,7 +21,7 @@
 
 ### 🚀 About Me:
 - I’m a dedicated innovator mastering **Machine Learning** and **Full Stack Web Development** to craft scalable, elegant solutions.
-- I constantly explore the latest in **AI**, **Web Development**, and **Cloud Technologies**—pushing the boundaries of modern technology.
+- I constantly explore the latest in **AI**, and **Cloud Technologies**—pushing the boundaries of modern technology.
 - I thrive on collaborating on open-source projects and pioneering ideas that reshape our digital landscape.
 
 ---
