@@ -2,7 +2,38 @@
   <img src="https://komarev.com/ghpvc/?username=Sumitkumar005&style=flat-square" alt="Profile Views">
 </p>
 
-[![LeetCode Stats](https://img.shields.io/badge/LeetCode-Sumitkumar005-orange?style=flat&logo=leetcode)](https://leetcode.com/YourUsername/)
+[![LeetCode Stats](https://img.shields.io/badge/LeetCode-Sumitkumar005-orange?style=flat&logo=leetcode)](https://leetcode.com/Sumitkumar005/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sumitkumar005?theme=dark&font=Abel&ext=contest)
+
+![LeetCode Graph](https://leetcard.jacoblin.cool/Sumitkumar005?theme=dark&font=Abel&ext=heatmap)
+
+name: Update LeetCode Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-leetcode:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Fetch LeetCode stats
+        run: curl -o leetcode_graph.png https://leetcard.jacoblin.Sumitkumar005?theme=dark&ext=heatmap
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add leetcode_graph.png
+          git commit -m "Updated LeetCode Graph"
+          git push
+
+
+
+
 
 
 
