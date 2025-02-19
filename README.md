@@ -2,7 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=Sumitkumar005&style=flat-square" alt="Profile Views">
 </p>
 
-![LeetCode Stats](https://img.shields.io/badge/LeetCode-Sumitkumar005-orange?style=flat&logo=leetcode)
+[![LeetCode Stats](https://img.shields.io/badge/LeetCode-Sumitkumar005-orange?style=flat&logo=leetcode)](https://leetcode.com/YourUsername/)
+
 
 
 # Hi there, I'm Sumitkumar005! 👋
