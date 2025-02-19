@@ -2,6 +2,9 @@
   <img src="https://komarev.com/ghpvc/?username=Sumitkumar005&style=flat-square" alt="Profile Views">
 </p>
 
+![LeetCode Stats](https://img.shields.io/badge/LeetCode-Sumitkumar005-orange?style=flat&logo=leetcode)
+
+
 # Hi there, I'm Sumitkumar005! 👋
 
 ## 🎯 Passionate Developer | Machine Learning Enthusiast | Data Engineer
