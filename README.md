@@ -88,9 +88,10 @@
 </p>
 
 ## 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitkumar005&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=sumitkumar005&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 
