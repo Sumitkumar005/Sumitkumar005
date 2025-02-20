@@ -91,12 +91,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumitkumar005&theme=react-dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitkumar005&theme=dark&hide_border=true">
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumitkumar005&theme=react-dark">
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitkumar005&layout=compact&theme=radical" alt="Top Languages">
