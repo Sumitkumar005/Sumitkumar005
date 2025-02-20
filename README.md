@@ -87,8 +87,10 @@
   <img src="https://leetcard.jacoblin.cool/Sumitkumar005?theme=dark&font=Abel&ext=heatmap">
 </p>
 
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Sumitkumar005&theme=dark&hide_border=true" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitkumar005&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 
