@@ -2,9 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=Sumitkumar005&style=flat-square" alt="Profile Views">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitkumar005&theme=dark&hide_border=true" alt="GitHub Streak Stats">
-</p>
 
 
 # Hi there, I'm Sumit kumar! 👋
@@ -91,8 +88,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitkumar005&theme=dark&hide_border=true" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Sumitkumar005&theme=dark&hide_border=true" alt="GitHub Streak Stats">
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumitkumar005&theme=react-dark">
