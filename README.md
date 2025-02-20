@@ -2,6 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=Sumitkumar005&style=flat-square" alt="Profile Views">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitkumar005&theme=dark&hide_border=true" alt="GitHub Streak Stats">
+</p>
+
 
 # Hi there, I'm Sumit kumar! 👋
 
