@@ -83,11 +83,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Sumitkumar005&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
+
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Sumitkumar005?theme=dark&font=Abel&ext=heatmap">
+  <img src="https://streak-stats.demolab.com?user=sumitkumar005&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
-
-
 
 
 <p align="center">
