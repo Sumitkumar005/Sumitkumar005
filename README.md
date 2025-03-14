@@ -73,7 +73,7 @@
 ---
 
 ## 🔥 Ongoing Projects:
-- 🛠️ Developing innovative solutions that push the boundaries of current technology. Stay tuned!
+- 🛠️ Developing innovative solutions that push the boundaries of current technology. Stay tuned.!
 
 ---
 
