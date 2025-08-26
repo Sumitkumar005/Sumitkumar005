@@ -12,7 +12,7 @@
 - AI Engineer passionate about building impactful solutions in **Computer Vision**, **NLP**, and **Generative AI**.
 - Skilled in designing and deploying **end-to-end ML systems**, including **RAG chatbots**, **3D vision models**, and **multimodal AI**.
 - Experienced in **backend API development**, **automation workflows**, and **cloud-based MLOps** for real-world production use.
-- Thrive on turning complex AI research into **scalable, production-ready solutions** that save time, improve accuracy, and drive innovation.
+- Thrive on turning complex AI research into **scalable, production-ready solutions** that save time, improve accuracy, and drive innovation..
 
 ---
 
