@@ -63,7 +63,7 @@ class AIEngineer:
 
 ## 💼 Professional Experience
 
-### 🏢 Current Roles
+### 🏢 Current Roles.
 
 <table>
 <tr>
