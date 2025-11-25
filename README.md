@@ -114,7 +114,7 @@ class AIEngineer:
 **🔹 Full-Stack Developer** | *Devvoy* | Jan 2025 - May 2025
 - AI-powered therapy platform with LLM-driven dialogues
 - Voice-enabled interactions using React, FastAPI, ElevenLabs TTS
-- Mentored 3+ contributors on Git workflows & deployment
+- Mentored 3+ contributors on Git workflows and deployment
 
 ---
 
