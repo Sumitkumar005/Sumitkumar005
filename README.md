@@ -75,7 +75,7 @@ class AIEngineer:
 
 - Built **FA-Admission Backend** with Node.js, Express.js, MongoDB
 - Developed **AI-powered University Chatbot** with RAG pipeline & FAISS
-- Created **AI Document Processing System** using Tesseract OCR & GPT-4
+- Created **AI Document  Processing System** using Tesseract OCR & GPT-4
 - Engineered **Email Outreach Platform** with automated AI content generation
 
 </td>
