@@ -196,7 +196,7 @@ Comprehensive code quality assessment across 10+ languages
 - RAG engine for codebase Q&A
 - AST parsing for security vulnerabilities
 - GitHub integration
-- Real-time progress tracking
+- Real-time progress tracking.
 
 </td>
 </tr>
