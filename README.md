@@ -83,7 +83,7 @@ class AIEngineer:
 
 **🔹 AI/ML Research Engineer**  
 📍 **Freelancer** | Remote (South Korea)  
-📅 *Oct 2025 – Present*
+📅 *Oct 2025 – Present.*
 
 - **Multimodal Emotion Recognition**: 92.53% accuracy on IEMOCAP
 - **Fashion Trend Forecasting** with ensemble models (N-BEATS, PatchTST)
