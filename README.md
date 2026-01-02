@@ -43,7 +43,7 @@ class AIEngineer:
 🔹 **AI Engineer** passionate about building impactful solutions in **Computer Vision**, **NLP**, and **Generative AI**  
 🔹 Skilled in designing **end-to-end ML systems**: RAG chatbots, 3D vision models, multimodal AI  
 🔹 Experienced in **backend API development**, **microservices**, and **cloud-based MLOps**  
-🔹 Thriving on turning complex AI research into **production-ready solutions** that drive real-world impact
+🔹 Thriving on turning complex AI research into **production-ready solutions** that drive real-world impact.
 
 ---
 
